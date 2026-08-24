@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Jonathan Peelle"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Smart and handsome Professor"
   location         : "Boston, MA"
   employer         : "Northeastern University"
   uri              : "http://jonathanpeelle.net"
-  email            : "j.peelle@northeastern.edu" 
+  email            : #"j.peelle@northeastern.edu" 
 
   # Academic websites
   academia         : # URL
